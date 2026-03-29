@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 📊 Hoạt động LeetCode của tôi
-![LeetCode Stats](https://leetcard.jacoblin.cool/huuchinh1102?theme=dark&font=Recursive&ext=activity)
+
