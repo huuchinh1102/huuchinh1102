@@ -1,6 +1,7 @@
 ## Hi there 👋
 ### 📊 LeetCode
-huuchinh1102/huuchinh1102
+<!-- leetcode-stats-action-start -->
+<!-- leetcode-stats-action-end -->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/huuchinh1102?theme=dark&font=Recursive&ext=activity)
 <!--
 **huuchinh1102/huuchinh1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
