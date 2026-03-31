@@ -1,0 +1,16 @@
+name: Update LeetCode Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Chạy tự động vào 0h mỗi ngày
+  workflow_dispatch:     # Cho phép ông nhấn nút chạy thủ công
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: antoniomrdlg/leetcode-stats-action@v1
+        with:
+          username: huuchinh1102
+          limit: 5 # Số bài gần nhất muốn hiện
