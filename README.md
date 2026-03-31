@@ -1,21 +1,9 @@
 ## Hi there 👋
-### 📊 LeetCode
-<img src="https://leetcode-badge.vercel.app/api/users/huuchinh1102/badge" width="150" alt="March Badge">
-<!-- leetcode-stats-action-start -->
-<!-- leetcode-stats-action-end -->
+
+### 📊 Hoạt động LeetCode của tôi
+
+![March Badge](https://img.shields.io/badge/LeetCode-March_Challenge_2026-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/huuchinh1102?theme=dark&font=Recursive&ext=activity)
-<!--
-**huuchinh1102/huuchinh1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+---
