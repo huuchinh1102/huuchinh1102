@@ -1,5 +1,6 @@
 ## Hi there 👋
 ### 📊 LeetCode
+![LeetCode Badge](https://leetcode-badge.vercel.app/api/users/huuchinh1102/badge)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/huuchinh1102?theme=dark&font=Recursive&ext=activity)
 <!--
 **huuchinh1102/huuchinh1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
