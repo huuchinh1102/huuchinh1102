@@ -1,5 +1,6 @@
 ## Hi there 👋
 ### 📊 LeetCode
+<img src="https://leetcode-badge.vercel.app/api/users/huuchinh1102/badge" width="150" alt="March Badge">
 <!-- leetcode-stats-action-start -->
 <!-- leetcode-stats-action-end -->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/huuchinh1102?theme=dark&font=Recursive&ext=activity)
