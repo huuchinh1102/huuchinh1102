@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: anubhavmadhav/leetcode-stats-action@master
+      - uses: joshcai/leetcode-stats-action@v2
         with:
           username: huuchinh1102
